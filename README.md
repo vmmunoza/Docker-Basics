@@ -129,5 +129,5 @@ docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
 
 ---
 
-*Note: This is a basic guide and covers only the most commonly used Docker commands. For a comprehensive list and detailed explanations, refer to the [Docker Documentation](https://docs.docker.com/).*
+*Note: This is a basic guide and covers only the most commonly used Docker commands. For a comprehensive list and detailed explanations, refer to the [Docker Documentation]([https://docs.docker.com/](https://docs.docker.com/get-started/overview/)https://docs.docker.com/get-started/overview/).*
 ```
